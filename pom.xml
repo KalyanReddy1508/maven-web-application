@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.213.35.118:9980/mithuntechnologies/repository/hdfcabank-release/</url>
+	      <url>http://13.212.169.79:9980/kalyan/repository/hdfcbank-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.213.35.118:9980/mithuntechnologies/repository/hdfcbank-snapshot/</url>
+	      <url>http://13.212.169.79:9980/kalyan/repository/hdfcbank-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
